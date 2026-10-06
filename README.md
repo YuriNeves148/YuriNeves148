@@ -54,7 +54,7 @@ Desenvolvi um projeto sobre gerenciamento de faturas de cartão de crédito e um
   <img src="https://img.shields.io/badge/-%23ff79c6?style=flat-square" height="1" width="100%"/>
 </p>
 
-<p style="font-size: 24px; font-weight: bolder">
+<p style="font-size: 30px; font-weight: bolder">
 Projetos
 </p>
 <p style="font-size: 21px;">
