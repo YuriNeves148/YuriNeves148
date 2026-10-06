@@ -32,7 +32,7 @@ Desenvolvi um projeto sobre gerenciamento de faturas de cartão de crédito e um
 </p>
 
 <p style="font-size: 24px; font-weight: bolder">
-Linguagens e Tecnologias
+<b style="font-family: 'Courier New', monospace; font-size: 18px;>Linguagens e Tecnologias</b>
 </p>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" title="Linux" style="margin-right: 15px;"/>
